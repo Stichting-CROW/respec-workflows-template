@@ -1,0 +1,4 @@
+{
+  "_slug": "workflows",
+  "_copy_without_render": ["*.yaml"]
+}
