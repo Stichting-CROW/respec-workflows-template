@@ -1,4 +1,4 @@
-name: Publish draft
+name: Auto-publish draft
 
 on:
   push:

@@ -1,4 +1,4 @@
-name: Add document
+name: Add draft document
 
 on:
   workflow_dispatch:

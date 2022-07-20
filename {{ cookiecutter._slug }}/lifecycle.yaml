@@ -1,4 +1,4 @@
-name: Publish version
+name: Publish review or reference version
 
 on:
   workflow_dispatch:
