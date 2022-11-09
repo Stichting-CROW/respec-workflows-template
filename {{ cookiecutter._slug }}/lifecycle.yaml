@@ -142,5 +142,3 @@ jobs:
             doc: publish ${{ env.DOCUMENT_FULL_NAME }}
 
             Reason: run lifecycle.yaml by ${{ github.actor }}
-          commit_user_name: stichting-crow-klusjesbot
-          commit_user_email: 84876605+stichting-crow-klusjesbot@users.noreply.github.com
